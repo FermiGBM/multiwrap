@@ -1,6 +1,6 @@
 ## Multiwrap NFT Port For Filecoin VM
 
-Original author:
+Original Developer: Nacho Iacovino
 
 Port: Titus Miles (Haze Ventures)
 
