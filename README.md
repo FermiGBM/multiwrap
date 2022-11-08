@@ -29,9 +29,9 @@ Loading the repository
 2. Connect to Goerli Testnet via Metamask
 3. Select Goerli Testnet from the Plugin's dropdown menu and Input the verified contract address 0x2771Ad8D23e65745F889A06543fB1E2D1Ab598Fe. Click Fetch Contract, after clicking some permissions requests to modify files the contract source repository should be fully loaded in Remix IDE.
 
-  OR
+    OR
 
-Download the Remix Workspace file given in the source folder and load it into Remix IDE.
+  Download the Remix Workspace file given in the source folder and load it into Remix IDE.
 
 4. Click Multiwrap.sol in the multiwrap folder, and compile it using the proper compiler version (also enable Optimization is required due to the contract size).
 
