@@ -19,7 +19,7 @@ If you follow the rules to use the thirdweb sdk, it should be useable with the c
 Demo showcases the wrapping functions being signed on etherscan, the permissioned functions likely being given to the thirdweb SDK is what is causing the transaction to fail.
 
 
-Overall I think this is a promising tool, and is a good starting point to create a public version of the wrapper that can work for anyone calling the contract functions from the block explorer, without specifically having to use the sdk.
+Overall I think this is a promising tool, and is a good starting point to create a public version of the wrapper that can work for anyone calling the contract functions from the block explorer, without specifically having to use the sdk through a terminal for it to properly work.
 
 
 *Original Instructions:*
