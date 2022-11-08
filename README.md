@@ -31,7 +31,7 @@ Loading the repository
 
     OR
 
-  Download the Remix Workspace file given in the source folder and load it into Remix IDE.
+    Download the Remix Workspace file given in the source folder and load it into Remix IDE.
 
 4. Click Multiwrap.sol in the multiwrap folder, and compile it using the proper compiler version (also enable Optimization is required due to the contract size).
 
