@@ -1,4 +1,28 @@
-## Getting Started
+## Multiwrap NFT Port For Filecoin VM
+
+Original author:
+
+Port: Titus Miles (Haze Ventures)
+
+Tools Used: NFT.Storage,IPFS
+
+Coding notes, a
+
+After testing, I found permissions errors in the base contract which prevents it from being publicly useable on Etherscan.
+
+The minting roles required may be permissioned to an address defined by the thirdweb sdk.
+
+Transaction hash of calling the wrap function to combine 2 NFTs, failed with permissions error: https://goerli.etherscan.io/tx/0xeb0440cf58c51f1d92c93a0a239c6550bc828f6e42ae13b5a40a557aa5c1f63f
+
+If you follow the rules to use the thirdweb sdk, it should be useable with the current version of Filecoin VM, given you also use thirdweb sdk in the terminal along with the instructions given on: https://github.com/jimpick/wallaby-fevm-msg-signer, this contract's binary files are also already provided in the bin folder.
+
+Demo showcases the wrapping functions being signed on etherscan, the permissioned functions likely being given to the thirdweb SDK is what is causing the transaction to fail.
+
+
+Overall I think this is a promising tool, and is a good starting point to create a public version of the wrapper that can work for anyone calling the contract functions from the block explorer, without specifically having to use the sdk.
+
+
+*Original Instructions:*
 
 First, intall the required dependencies:
 
