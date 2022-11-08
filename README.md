@@ -4,7 +4,7 @@ Original author:
 
 Port: Titus Miles (Haze Ventures)
 
-Tools Used: NFT.Storage,IPFS
+Tools Used: NFT.Storage, IPFS
 
 Comments:
 
