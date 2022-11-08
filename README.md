@@ -27,7 +27,7 @@ Loading the repository
 
 1. Activate the Sourcify Plugin in Remix IDE
 2. Connect to Goerli Testnet via Metamask
-3. Select Goerli Testnet from the Plugin's dropdown menu and Input the verified contract address 0x2771Ad8D23e65745F889A06543fB1E2D1Ab598Fe. Click Fetch Contract, after clicking some permissions requests to modify files the contract source repository should be fully loaded in Remix IDE.
+3. Select Goerli Testnet from the Plugin's dropdown menu and Input the verified contract address 0x2771Ad8D23e65745F889A06543fB1E2D1Ab598Fe. Click Fetch Contract, after clicking some permissions requests to modify files the contract source repository should be fully loaded into Remix IDE.
 
     OR
 
