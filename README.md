@@ -21,7 +21,7 @@ Demo showcases the wrapping functions being signed on etherscan, the permissione
 
 Overall I think this is a promising tool, and is a good starting point to create a public version of the wrapper that can work for anyone calling the contract functions from the block explorer, without specifically having to use the sdk through a terminal for it to properly work.
 
-Compilation Instructions (Remix IDE Online)
+**Compilation Instructions (Remix IDE Online)**
 
 Loading the repository 
 
@@ -29,7 +29,7 @@ Loading the repository
 2. Connect to Goerli Testnet via Metamask
 3. Select Goerli Testnet from the Plugin's dropdown menu and Input the verified contract address 0x2771Ad8D23e65745F889A06543fB1E2D1Ab598Fe. Click Fetch Contract, after clicking some permissions requests to modify files the contract source repository should be fully loaded in Remix IDE.
 
-OR
+  OR
 
 Option 2
 
