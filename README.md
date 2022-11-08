@@ -6,7 +6,7 @@ Port: Titus Miles (Haze Ventures)
 
 Tools Used: NFT.Storage,IPFS
 
-Coding notes, a
+Comments:
 
 After testing, I found permissions errors in the base contract which prevents it from being publicly useable on Etherscan.
 
