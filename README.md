@@ -6,6 +6,8 @@ Port: Titus Miles (Haze Ventures)
 
 Tools Used: NFT.Storage, IPFS
 
+Currently ported into Goerli Testnet (Contract: https://goerli.etherscan.io/address/0x2771ad8d23e65745f889a06543fb1e2d1ab598fe)
+
 Comments:
 
 After testing, I found permissions errors in the base contract which prevents it from being publicly useable on Etherscan.
